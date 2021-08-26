@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/code/C++Folder/CPPCodeRecord/test1/T12.cpp
+T12.h
+C:/code/C++Folder/CPPCodeRecord/test1/T12.h
+iostream
+-
+
+C:/code/C++Folder/CPPCodeRecord/test1/T12.h
+
+C:/code/C++Folder/CPPCodeRecord/test1/T4.cpp
+iostream
+-
+stdexcept
+-
+ctime
+C:/code/C++Folder/CPPCodeRecord/test1/ctime
+cstdlib
+C:/code/C++Folder/CPPCodeRecord/test1/cstdlib
+T4.h
+C:/code/C++Folder/CPPCodeRecord/test1/T4.h
+string
+C:/code/C++Folder/CPPCodeRecord/test1/string
+vector
+C:/code/C++Folder/CPPCodeRecord/test1/vector
+
+C:/code/C++Folder/CPPCodeRecord/test1/T4.h
+
